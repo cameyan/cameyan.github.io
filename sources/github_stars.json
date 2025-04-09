@@ -1,0 +1,1229 @@
+[
+    [
+        "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+        "强大的ChatGPT项目，可自己部署到私有服务器上使用"
+    ],
+    [
+        "https://github.com/agalwood/Motrix",
+        "PC端多链接、磁力链接、种子文件下载"
+    ],
+    [
+        "https://github.com/fighting41love/funNLP",
+        "用于自然语言处理（NLP）的中文语言资源和数据"
+    ],
+    [
+        "https://github.com/Textualize/rich",
+        "一个Python库，用于在终端输出颜色和样式、绘制表格、进度条、语法高亮等美化格式"
+    ],
+    [
+        "https://github.com/sherlock-project/sherlock",
+        "通过社交网络上的用户名寻找社交媒体帐户"
+    ],
+    [
+        "https://github.com/zulip/zulip",
+        "专为实时和异步对话而设计的现代团队聊天应用程序"
+    ],
+    [
+        "https://github.com/Jack-Cherish/python-spider",
+        "Python3网络爬虫实战（过时，但覆盖面广）"
+    ],
+    [
+        "https://github.com/wistbean/learn_python3_spider",
+        "Python3网络爬虫实战（较过时）"
+    ],
+    [
+        "https://github.com/soxoj/maigret",
+        "通过用户名从数千个网站收集某人的档案"
+    ],
+    [
+        "https://github.com/zhayujie/chatgpt-on-wechat",
+        "基于大模型搭建的微信聊天机器人，同时支持微信、企业微信、公众号、飞书、钉钉接入"
+    ],
+    [
+        "https://github.com/lencx/ChatGPT",
+        "ChatGPT 桌面应用程序（Mac、Windows 和 Linux）"
+    ],
+    [
+        "https://github.com/memochou1993/gpt-ai-assistant",
+        "OpenAI + LINE + Vercel = GPT 人工智能助手"
+    ],
+    [
+        "https://github.com/sofish/typo.css",
+        "中文网页重设与排版的CSS样式"
+    ],
+    [
+        "https://github.com/alexazhou/VeryNginx",
+        "一个非常强大且友好的 nginx，基于 lua-nginx-module( openresty )，提供 WAF、控制面板和仪表板"
+    ],
+    [
+        "https://github.com/sindresorhus/github-markdown-css",
+        "仿GitHub-Markdown的CSS样式"
+    ],
+    [
+        "https://github.com/listen1/listen1_desktop",
+        "音乐合集（Windows、Mac、Linux 桌面）播放器"
+    ],
+    [
+        "https://github.com/louislam/dockge",
+        "一个美观、易用的 Docker Compose 管理平台，提供了一个 Web 界面，用于管理 docker-compose.yaml 文件"
+    ],
+    [
+        "https://github.com/hefengbao/jingmo",
+        "一款古诗词文和成语等阅读应用"
+    ],
+    [
+        "https://github.com/newmarcel/KeepingYouAwake",
+        "一个小型的菜单栏实用工具，防止 Mac 进入睡眠状态的工具"
+    ],
+    [
+        "https://github.com/ihmily/DouyinLiveRecorder",
+        "可循环值守和多人录制的直播录制软件，支持多平台，也支持纯净录制"
+    ],
+    [
+        "https://github.com/tconbeer/harlequin",
+        "一个简单、快速、美观的带界面的终端数据库客户端"
+    ],
+    [
+        "https://github.com/pimutils/khal",
+        "一款简单、美观的终端命令行日历"
+    ],
+    [
+        "https://github.com/guofei9987/text_blind_watermark",
+        "给文本加盲水印的 Python 库"
+    ],
+    [
+        "https://github.com/YiNNx/cmd-wrapped",
+        "一个 Rust 编写的命令行历史记录分析工具"
+    ],
+    [
+        "https://github.com/cyrus-and/gdb-dashboard",
+        "专为 GNU 调试器（GDB）设计的文本界面，支持模块化显示调试的程序相关信息"
+    ],
+    [
+        "https://github.com/wanghongenpin/network_proxy_flutter",
+        "支持手机端的免费抓包工具，适用于 Windows、macOS、Linux、Android 和 iOS 平台"
+    ],
+    [
+        "https://github.com/vimwiki/vimwiki",
+        "一个 Vim 插件，通过以 wiki 的方式连接文本，提供更好的组织笔记和想法的功能"
+    ],
+    [
+        "https://github.com/jianchang512/pyvideotrans",
+        "将视频从一种语言翻译为另一种语言，并添加配音"
+    ],
+    [
+        "https://github.com/WayneD/rsync",
+        "一种提供快速增量文件同步的开源实用程序"
+    ],
+    [
+        "https://github.com/Kareadita/Kavita",
+        "Kavita 是一个快速、功能丰富的跨平台阅读服务器，可自己接入服务器资源"
+    ],
+    [
+        "https://github.com/mgth/LittleBigMouse",
+        "Windows平台外接多个不同分辨率屏幕情况，鼠标平滑移动"
+    ],
+    [
+        "https://github.com/BlueMatthew/WechatExporter",
+        "微信聊天记录迁移和备份工具"
+    ],
+    [
+        "https://github.com/anfragment/zen",
+        "适用于 PC 的广告拦截器"
+    ],
+    [
+        "https://github.com/dromara/SMS4J",
+        "Java 的短信服务聚合框架，该项目集成了国内众多第三方短信服务，简化了接入多个短信 SDK 的流程"
+    ],
+    [
+        "https://github.com/DustinBrett/daedalOS",
+        "用 JavaScript 写的运行在浏览器中的仿 Windows 桌面操作系统"
+    ],
+    [
+        "https://github.com/viliusle/miniPaint",
+        "在线免费的简单图片编辑器（英文）"
+    ],
+    [
+        "https://github.com/bgstaal/multipleWindow3dScene",
+        "使用 Three.js 和 localStorage 跨多个浏览器窗口展示了量子纠缠这一现象（炫酷球形没有了，等待...）"
+    ],
+    [
+        "https://github.com/jazzband/tablib",
+        "处理表格数据集的 Python 库。该项目能够将不同格式的表格数据集，转化成统一的 Dataset 对象"
+    ],
+    [
+        "https://github.com/talebook/talebook",
+        "一款简单好用的在线个人书库"
+    ],
+    [
+        "https://github.com/bensadeh/tailspin",
+        "一款实用的日志关键字高亮命令行工具"
+    ],
+    [
+        "https://github.com/H-M-H/Weylus",
+        "将平板电脑用作计算机上的图形输入板/触摸屏"
+    ],
+    [
+        "https://github.com/horsicq/Detect-It-Easy",
+        "快速检测二进制文件的文件类型、体系结构和编译器信息的工具"
+    ],
+    [
+        "https://github.com/maboloshi/github-chinese",
+        "GitHub 网站汉化插件"
+    ],
+    [
+        "https://github.com/pdone/FreeControl",
+        "在 Windows 电脑上控制 Android 设备的工具"
+    ],
+    [
+        "https://github.com/nilaoda/N_m3u8DL-RE",
+        "适用于 MPD/M3U8/ISM 的流媒体下载器"
+    ],
+    [
+        "https://github.com/Justin62628/Squirrel-RIFE",
+        "中文自动补帧工具，可用于去除动漫卡顿感，适用于 Windows10及以上"
+    ],
+    [
+        "https://github.com/cambecc/earth",
+        "一个可视化全球天气实况的项目"
+    ],
+    [
+        "https://github.com/sqlmapproject/sqlmap",
+        "功能强大的 SQL 注入工具，是一个 Python 写的渗透测试工具"
+    ],
+    [
+        "https://github.com/sun0225SUN/Awesome-Love-Code",
+        "表白代码收藏馆，收集了 50+ 个用于表白的代码和程序，涵盖 Web、Python、C/C++、C# 等编程语言"
+    ],
+    [
+        "https://github.com/photoprism/photoprism",
+        "带 AI 功能的开源私人云相册，可用来搭建私人相册管理你的照片"
+    ],
+    [
+        "https://github.com/siyuan-note/siyuan",
+        "思源-强大的笔记软件"
+    ],
+    [
+        "https://github.com/doocs/leetcode",
+        "全面的 Leetcode 算法解题指南，题解有 Java、Python、C++、Go、TypeScript、Rust 等多种编程语言实现"
+    ],
+    [
+        "https://github.com/microsoft/fluentui-system-icons",
+        "微软开源的图标集合。这是一套微软 Fluent UI 设计风格的图标，它丰富、精致、统一"
+    ],
+    [
+        "https://github.com/AnubisNekhet/AnuPpuccin",
+        "一款精美的 Obsidian 主题"
+    ],
+    [
+        "https://github.com/helix-editor/helix",
+        "一款 Rust 写的终端文本编辑器"
+    ],
+    [
+        "https://github.com/amidaware/tacticalrmm",
+        "一个远程监控和管理 PC 的工具"
+    ],
+    [
+        "https://github.com/Danily07/Translumo",
+        "屏幕实时翻译工具，对屏幕上选定区域内显示的文本进行实时翻译"
+    ],
+    [
+        "https://github.com/mawww/kakoune",
+        "一款神似 Vim 的代码编辑器"
+    ],
+    [
+        "https://github.com/chaitin/SafeLine",
+        "一款简单好用的 Web 应用防火墙"
+    ],
+    [
+        "https://github.com/Stirling-Tools/Stirling-PDF",
+        "一款功能强大、开箱即用的 PDF 工具"
+    ],
+    [
+        "https://github.com/czy0729/Bangumi",
+        "类似豆瓣的二次元爱好者社区客户端"
+    ],
+    [
+        "https://github.com/codemix/deprank",
+        "基于 PageRank 算法和源文件依赖关系，找到 JavaScript/TypeScript 代码仓库中被依赖最多的文件"
+    ],
+    [
+        "https://github.com/wanglin2/mind-map",
+        "一个还算强大的Web思维导图，支持部署"
+    ],
+    [
+        "https://github.com/gkd-kit/gkd",
+        "自定义屏幕点击的 Android 应用，可用来自动完成点击跳过广告、同意按钮、领红包等操作"
+    ],
+    [
+        "https://github.com/argosopentech/argos-translate",
+        "用 Python 写的开源离线翻译库"
+    ],
+    [
+        "https://github.com/docusealco/docuseal",
+        "开源的文件在线签署平台"
+    ],
+    [
+        "https://github.com/Barre/privaxy",
+        "Rust 写的跟踪和广告拦截工具"
+    ],
+    [
+        "https://github.com/mulaRahul/keyviz",
+        "一款免费的实时键鼠输入可视化软件，可以将鼠标和键盘的操作展示到屏幕上"
+    ],
+    [
+        "https://github.com/LouBii/OneAccount",
+        "一款简约风格的记账app"
+    ],
+    [
+        "https://github.com/microsoft/wslg",
+        "在 Windows 上运行 Linux 图形化应用的工具"
+    ],
+    [
+        "https://github.com/starship/starship",
+        "1. 轻量、速度超快的高颜值Shell终端<br>2. 官方中文文档：https://starship.rs/zh-CN/guide/"
+    ],
+    [
+        "https://github.com/AlDanial/cloc",
+        "可以统计源码中空白行、注释、不同编程语言代码行数的工具"
+    ],
+    [
+        "https://github.com/agalwood/Motrix",
+        "多线程下载管理器"
+    ],
+    [
+        "https://github.com/imsyy/home",
+        "1. web 个人网站及主页，功能比较完善、炫酷、适合自学和二开（此为源地址）<br>2. 二开地址（开箱即用）：https://github.com/wuhobin/blog-home <br/>3.  源字体文件：https://file.imsyy.top/font/"
+    ],
+    [
+        "https://github.com/hitokoto-osc/sentences-bundle",
+        "一言 开源句子数据库（注意：采用AGPL开源许可协议）"
+    ],
+    [
+        "https://github.com/henrypp/memreduct",
+        "轻量级实时内存管理应用程序，用于监视和清理计算机上的系统内存"
+    ],
+    [
+        "https://github.com/0x5bfa/FluentHub",
+        "Github GUI 客户端，界面清爽时尚"
+    ],
+    [
+        "https://github.com/samhocevar/wincompose",
+        "Windows 平台免费的特殊符号、Emoji符号标签输入法，内置上千种字符"
+    ],
+    [
+        "https://github.com/chrisant996/clink",
+        "Windows 命令行增强工具。该项目可以让 Windows 原生的 cmd.exe 拥有类似 bash 一样强大的自动补全、历史记录、行编辑等功能，就像在 Linux 终端上一样"
+    ],
+    [
+        "https://github.com/layui/layui",
+        "一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面"
+    ],
+    [
+        "https://github.com/pingc0y/URLFinder",
+        "快速批量提取页面/链接中的URL、JS等信息，支持导出"
+    ],
+    [
+        "https://github.com/HabitRPG/habitica",
+        "用玩 RPG 游戏的方式养成好习惯。这是一款养成类 RPG 游戏，当你完成一个现实中的待办事项后，会获得相应的经验和金币。随着你的等级提升，将会开启更多的玩法，比如购买装备、孵化宠物、职业、专属技能、组队打副本等"
+    ],
+    [
+        "https://github.com/vasanthv/talk",
+        "点开即用的在线视频应用。这是一款基于 WebRTC 构建的 P2P 在线视频应用，它免费、无需下载和注册、点开即用"
+    ],
+    [
+        "https://github.com/massivemadness/Squircle-CE",
+        "Android 手机上的代码编辑器。这款免费的手机代码编辑器，支持 C、C++、Go、Python、Java 等三十多种编程语言，同时具有语法高亮、自动补全、文件管理、代码风格等功能"
+    ],
+    [
+        "https://github.com/orf/gping",
+        "Rust 写的 ping 工具。该项目能够以折线图的方式，实时展示 ping 的结果，支持 Windows、Linux 和 macOS 操作系统"
+    ],
+    [
+        "https://github.com/pot-app/pot-desktop",
+        "一款跨平台的划词翻译软件。支持划词翻译、输入翻译、截图翻译等多种模式的翻译工具，适用于 Windows、macOS 和 Linux。"
+    ],
+    [
+        "https://github.com/Tw1ddle/geometrize",
+        "将图像用几何图形重绘的工具。该项目可以用圆形、三角形、矩形等几何图形重新绘制图像，并将结果导出为 SVG、PNG、JPG、GIF 等格式"
+    ],
+    [
+        "https://github.com/mltframework/shotcut",
+        "一款功能强大的免费视频剪辑软件。这款软件虽然免费但在功能上完全不输收费的视频剪辑工具，可作为 Pr 的开源替代品。它拥有中文和直观的操作界面，支持数百种音频和视频格式、素材原生编辑、多时间线等功能，适用于 Windows、Linux、macOS 系统"
+    ],
+    [
+        "https://github.com/sqlitebrowser/sqlitebrowser",
+        "SQLite 可视化管理工具。这是一款实用的 SQLite 数据库桌面管理工具，它支持创建和编辑 SQLite 数据库文件，可通过图形化界面创建、定义、修改、删除表和索引，以及执行 SQL 和导出数据等操作"
+    ],
+    [
+        "https://github.com/maaslalani/slides",
+        "一款命令行演示工具。这款命令行工具可以让你在终端中轻松创建和演示幻灯片，它开箱即用、支持 Markdown 语法"
+    ],
+    [
+        "https://github.com/javahuang/SurveyKing",
+        "功能强大的开源调查问卷系统（类似腾讯问卷、调查星）。这是一款 Java 写的问卷调查和考试系统，支持 20 多种题型、Excel 导入问卷、白名单答卷、公开查询、数据导出等功能"
+    ],
+    [
+        "https://github.com/toeverything/AFFiNE",
+        "类似 Notion 的协同知识库系统。它拥有清爽、简洁的界面，支持离线使用。集成了笔记、知识库、数据表格等功能"
+    ],
+    [
+        "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web",
+        "免费部署私人 ChatGPT 网页应用。该项目不仅提供了更加人性化的 ChatGPT 聊天界面，还支持一键部署到 Vercel。你只需要提供 OpenAI API Key，就能免费拥有私人 ChatGPT 服务。"
+    ],
+    [
+        "https://github.com/gedoor/legado",
+        "安卓《阅读》APP GitHub源码，免费开源。该软件只是阅读器，不提供书源。"
+    ],
+    [
+        "https://github.com/EstrellaXD/Auto_Bangumi",
+        "全自动追番工具。该项目是 Python 写的自动订阅更新和下载动画的工具，用户只需在 Mikan Project 上订阅番剧，然后简单配置一下就可以"
+    ],
+    [
+        "https://github.com/openedx/edx-platform",
+        "Django 写的开源慕课平台。该项目是由麻省理工和哈佛大学联合开源的大规模开放式在线课堂(MOOC)平台，它提供了内容管理和学习管理服务。该平台支持在线讲课、创建课程、发布前预览、内容库、学生反馈、考试等功能。虽然它功能丰富，但界面十分简陋"
+    ],
+    [
+        "https://github.com/OpenStitching/stitching",
+        "强大的图片拼接 Python 库。这是一个基于 OpenCV 的拼接模块开发的用于快速拼接图片的 Python 库，支持在 Python 脚本中使用和命令行方式。甚至拼接连续图像。"
+    ],
+    [
+        "https://github.com/sharkdp/hexyl",
+        "命令行十六进制查看器。这是一款 Rust 写的命令行十六进制查看器，它简单纯粹、彩色输出效果十分舒服"
+    ],
+    [
+        "https://github.com/Sangwan5688/BlackHole",
+        "一款高颜值的音乐播放器应用。该项目是用 Flutter 写的高颜值、无广告、免费音乐播放器，拥有歌词、专辑、艺术家、播放列表、定时关闭等功能，支持 Android、iOS、macOS 系统"
+    ],
+    [
+        "https://github.com/XingangPan/DragGAN",
+        "拖动 GAN 完成 P 图。这是 DragGAN 的官方源码，它支持通过鼠标拖拽的方式对图像进行编辑"
+    ],
+    [
+        "https://github.com/google/mediapipe",
+        "谷歌开源的跨平台机器学习框架。它是一个能够轻松部署到移动端、Web、PC 和物联网设备的机器学习工具库，包含了物体检测、图像分类、人脸识别、手势识别、文本分类、语言检测、音频分类等模型"
+    ],
+    [
+        "https://github.com/Xfennec/progress",
+        "查看 Linux 命令执行进度的工具。这是一个可以查看 cp、mv、dd、tar 等命令执行进度的 Linux 工具，它可以显示已处理数据的百分比、处理速度和预计完成时间，并提供了类似 top 的监控模式"
+    ],
+    [
+        "https://github.com/Sophia-Community/SophiApp",
+        "一款强大的 Windows 微调工具。这是一个用于微调 Windows 10 和 Windows 11 配置的调整器。它拥有现代化的操作界面，在保证系统稳定的前提下，提供了超过 130 种的调整选项"
+    ],
+    [
+        "https://github.com/KDE/kdeconnect-kde",
+        "Linux 上的设备互联工具。这是一款由 KDE(知名 Linux 桌面环境) 开源的，方便手机与电脑实现无线互联的应用。支持手机和电脑之间共享剪贴板、通知、文件、运行命令等功能，还可以将手机作为电脑的触控板、键盘和幻灯片遥控器等外接设备"
+    ],
+    [
+        "https://github.com/1Panel-dev/1Panel",
+        "现代化、开源的 Linux 服务器运维管理面板。这是一款 Go 写的 Linux 服务器的在线管理系统，它安装简单、安全可靠，同时集成了 WordPress 等应用、域名绑定、SSL 证书配置、备份等功能，支持快速建站"
+    ],
+    [
+        "https://github.com/NaiboWang/EasySpider",
+        "一款可视化爬虫工具。该项目可以让用户在图形化界面下，无需写代码实现自动采集/爬虫的功能。用户只需要在网页上选择想要爬的内容，并根据提示框操作即可完成爬虫的设计和执行"
+    ],
+    [
+        "https://github.com/wallabag/wallabag",
+        "保存网页稍后阅读的应用。这是一款能够将网络上的文章下载到本地离线保存的应用，它完全免费、拥有中文界面和移动端"
+    ],
+    [
+        "https://github.com/Kanaries/pygwalker",
+        "用可视化的方式操作 pandas 数据集。该项目可以将 pandas 的 dataframe 数据对象转化成一个可交互的图形界面，支持通过拖拽字段的方式进行数据分析"
+    ],
+    [
+        "https://github.com/spieglt/FlyingCarpet",
+        "无需网络的文件传输工具。这是一个支持在 Android、iOS、Linux、macOS 和 Windows 系统之间通过 WiFi 点对点(Ad-Hoc)传输文件的工具。它不需要网络基础设施，只需要两台支持 WiFi 的设备，即可实现近距离无线传输"
+    ],
+    [
+        "https://github.com/valinet/ExplorerPatcher",
+        "自由切换 Windows11 开始菜单样式的工具。这是一款能够让 Windows 11 的开始菜单栏(Explorer) 重回 Windows 10 样式的扩展工具，除此之外还支持禁用 Windows 11 的上下文菜单和命令栏等功能，让你在 Windows 上拥有更舒适的工作环境"
+    ],
+    [
+        "https://github.com/ImageMagick/ImageMagick",
+        "一款强大的编辑和处理图像的桌面工具。该项目可用于创建、调整大小、裁剪、颜色校正和合成图像，支持超过 200 种的图像文件格式，其强大之处在于提供了处理复杂图像处理任务的 CLI 和 API"
+    ],
+    [
+        "https://github.com/boy1dr/SpleeterGui",
+        "一款 Windows 上的音轨分离工具。它是第三方制作的 Spleeter 桌面应用，支持中文在内的多国语言，可以将音乐里的人声和乐器声分离，轻松实现提取音乐中的伴奏"
+    ],
+    [
+        "https://github.com/LorisYounger/VPet",
+        "一款虚拟桌宠模拟器。这是一款 Windows 桌面宠物软件，支持摸头、喂食、喝水、打工、睡觉、玩耍等多种互动方式"
+    ],
+    [
+        "https://github.com/blackhole89/notekit",
+        "一款支持手绘笔记的 Markdown 编辑器。这是一个基于 GTK+ 3 开发的笔记工具，支持所见即所得的 Markdown 内容，以及通过鼠标、触摸屏或数字转化器添加手绘笔记"
+    ],
+    [
+        "https://github.com/amir20/dozzle",
+        "轻巧的 Docker 实时日志查看工具。这是一个实时监控 Docker 日志的 Web 应用，打包成了一个非常小的 Docker 应用。它开箱即用、占用内存少、不存储任何日志文件，支持更加友好的日志展示、容器名称模糊搜索、正则表达式搜索日志等功能"
+    ],
+    [
+        "https://github.com/AnalogJ/scrutiny",
+        "一款监控硬盘运行状况的仪表板。这是 smartd 的 WebUI 平台，smartd 是一个守护进程，它能够监视拥有 S.M.A.R.T.(自我监测、分析及报告技术) 规范的硬盘。该项目基于 smartd 实现了硬盘各项指标的可视化界面，并增加了告警、自定义阈值等功能"
+    ],
+    [
+        "https://github.com/pfalstad/circuitjs1",
+        "浏览器上的电子电路模拟器。这是一个在浏览器中运行的电子电路模拟器，鼠标点击即可打开或关闭开关，当鼠标移动到任何组件上，会显示该组件的当前状态和简短描述。支持绘制电路、添加电路组件、修改数值、动态显示电压信号、导入/导出/存储等功能，可用于电子电路相关的教学和实验"
+    ],
+    [
+        "https://github.com/vivo/MoonBox",
+        "无侵入的线上流量录制/回放平台。这是一款由 vivo 开源的基于 jvm-sandbox-repeater 的流量回放平台，提供了数据统计和存储能力以及大量插件，适用于自动化测试、线上问题追踪和业务监控等场景"
+    ],
+    [
+        "https://github.com/oshi/oshi",
+        "获取操作系统和硬件信息的 Java 库。这是一个基于 JNA 实现的获取本机操作系统和硬件信息的库，支持操作系统版本、进程、内存、 CPU 使用率、磁盘和分区、设备、传感器等信息"
+    ],
+    [
+        "https://github.com/mathquill/mathquill",
+        "数学公式在线编辑器。这是一个 JavaScript 写的公式编辑器，它可以让数学公式输入变得简单和美观"
+    ],
+    [
+        "https://github.com/quilljs/quill",
+        "一款强大的Web富文本编辑器。它是目前 GitHub 上 Star 数最多的所见即所得 Web 编辑器，具有强大的可扩展性和兼容性，支持台式机、平板电脑和手机上几乎所有的浏览器"
+    ],
+    [
+        "https://github.com/enricocid/Music-Player-GO",
+        "一款小巧但功能齐全的本地 Android 音乐播放器。它拥有极简的界面和小巧的体积，支持中文、定时关闭、随机播放、按艺术家、专辑、歌曲或文件夹组织音乐等功能"
+    ],
+    [
+        "https://github.com/tisfeng/Easydict",
+        "一款简洁优雅的翻译词典。它开箱即用，能够自动识别输入文本的语言，支持输入翻译、划词翻译和 OCR 截图翻译等功能。"
+    ],
+    [
+        "https://github.com/simonw/datasette",
+        "一个用于探索和发布数据的 Python 工具。该项目可以将 CSV、JSON、数据库等各种形式的数据，在几分钟内发布成 API 接口或网页，轻松实现数据集的 Web 可视化、搜索、分析等功能"
+    ],
+    [
+        "https://github.com/ilai-deutel/kibi",
+        "不到 1024 行的文本编辑器。这是一个用不到 1024 行 Rust 代码编写的命令行文本编辑器，支持 UTF-8、语法高亮、行号等基础功能"    ],
+    [
+        "https://github.com/veloren/veloren",
+        "一款 Rust 写的像素风 RPG 游戏。它的灵感来自《塞尔达传说：旷野之息》、《矮人要塞》和《我的世界》等游戏。虽然这款游戏的画质低，但拥有广阔的开放世界，玩家在游戏里可以打造道具、合成物品、战斗、升级、驯养宠物，还可以探索地牢洞穴、在空中滑翔、与 NPC 交易。"
+    ],
+    [
+        "https://github.com/dwarvesf/hidden",
+        "帮助隐藏 macOS 菜单栏图标的小工具。它能够灵活地隐藏菜单栏应用，让你的 Mac 看起来更加简洁，可通过 App Store 一键安装。"
+    ],
+    [
+        "https://github.com/distrochooser/distrochooser",
+        "帮你找到适合自己的 Linux 发行版。该网站通过询问一些问题，为你推荐符合你要求的 Linux 发行版，支持中文"
+    ],
+    [
+        "https://github.com/TheAlphamerc/flutter_twitter_clone",
+        "Flutter 写的推特客户端。这是一款用 Flutter 写的第三方 Twitter 客户端，实现了登录/注册、信息流、回复、通知、个人主页等功能。"
+    ],
+    [
+        "https://github.com/xiangyuecn/ACME-HTML-Web-Browser-Client",
+        "纯静态网页版 Encrpyt 等开源证书 ACME 申请页面"
+    ],
+    [
+        "https://github.com/acmesh-official/acme.sh",
+        "专门用于申请、检测、自动续期 encrpyt 开源免费证书的 脚本"
+    ],
+    [
+        "https://github.com/Perfare/AssetStudio",
+        "提取、解析unity构建的apk程序的文件内容"
+    ],
+    [
+        "https://github.com/Pathoschild/SMAPI",
+        "SMAPI 星露谷物语Mods模组加载器（此为Windows/Linux/Mac系统）<br>Android系统: <br>1. https://github.com/ZaneYork/SMAPI-Android-Installer  (维护中...) <br/>2. https://github.com/MartyrPher/SMAPI-Android-Installer  (停止维护)"
+    ],
+    [
+        "https://github.com/Moriafly/SaltPlayerSource",
+        "Salt Player - 椒盐音乐<br>此为安卓版本，Windows版本在Steam平台发行，预计2025-01-01发布"
+    ],
+    [
+        "https://github.com/Stirling-Tools/Stirling-PDF",
+        "PDF 各种操作程序"
+    ],
+    [
+        "https://github.com/johannesjo/super-productivity",
+        "待办事项列表清单程序，包含 Windows、Linux、Android"
+    ],
+    [
+        "https://github.com/ChrisTitusTech/linutil",
+        "Chris Titus Tech 的 Linux 工具箱 - Linutil 是一个与发行版无关的工具箱，旨在简化日常 Linux 任务"
+    ],
+    [
+        "https://github.com/immich-app/immich",
+        "1. 高性能自托管照片和视频管理解决方案，需要自己部署到服务器，包含 Android 程序。 <br> 2. 使用 docker 部署教程：https://immich.app/docs/install/docker-compose/"
+    ],
+    [
+        "https://github.com/jordansissel/xdotool",
+        "模拟键盘和鼠标操作的命令行工具。该项目可以通过命令的方式，模拟键盘输入、鼠标点击，以及移动、聚焦和调整窗口大小等操作，搭配上 shell 就是 DIY 的按键精灵，支持 Ubuntu、macOS、FreeBSD 等系统。"
+    ],
+    [
+        "https://github.com/Flow-Launcher/Flow.Launcher",
+        "Windows 的快速文件和程序启动器。类似于Windows全局搜索和启动框"
+    ],
+    [
+        "https://github.com/JosefNemec/Playnite",
+        "一款开源的电脑游戏管理工具。支持同步 Steam、Epic、GOG、Battle.net 等平台的游戏，导入后该工具会自动从 IGDB 获取游戏信息，为你的游戏提供一个统一的界面。它的代码完全开源保证了你的账号安全，而且支持包括中文在内的多种语言，适用于 Windows7 及以上的操作系统。"
+    ],
+    [
+        "https://github.com/moonlight-stream/moonlight-qt",
+        "让你可以在几乎任何设备上玩 PC 游戏的工具。该项目基于 NVIDIA GameStream 协议，通过串流的方式实现在 iOS、Android、电视等设备上玩电脑的 3A 大作。此过程手机无需下载和运行游戏，只需接收游戏画面、反馈操作指令。虽然安装过程有点复杂需要花些时间"
+    ],
+    [
+        "https://github.com/alist-org/alist",
+        "一款支持多种存储的文件列表程序。它支持一键安装，能够方便地聚合散落在各处的文件，轻松实现文件在线查看服务。支持包括本地存储、阿里云盘、百度网盘、OneDrive 、WebDAV 等多种存储方式。"
+    ],
+    [
+        "https://github.com/containers/skopeo",
+        "能够管理远程仓库的容器镜像的工具。它能够查看远程仓库的容器镜像信息，以及执行复制、同步、删除等操作，支持 docker.io、quay.io、私有仓库等。"
+    ],
+    [
+        "https://github.com/NginxProxyManager/nginx-proxy-manager",
+        "一款强大的 Nginx 可视化管理平台。它开箱即用支持 Docker 一键部署，可以让用户通过 Web 界面在线配置、管理 Nginx 服务，支持转发、重定向、SSL 证书、高级配置等功能。"
+    ],
+    [
+        "https://github.com/assimon/dujiaoka",
+        "HP 写的开源自动售货系统。采用 Laravel+Bootstrap 实现的自动售卖虚拟产品的平台，比如兑换码、账号之类的数字商品，顾客付款后可以自动发货，已集成微信、支付宝、Paypal 等多种支付方式。"
+    ],
+    [
+        "https://github.com/dexplo/bar_chart_race",
+        "基于 Python 的动态条形图。通过该项目可以用 Python 创建条形图比赛动画，显示数据排名的动态条形图，直观地展示数据变化过程。"
+    ],
+    [
+        "https://github.com/lsd-rs/lsd",
+        "1. 下一代 ls 命令。这个项目是用 Rust 重写的类似 ls 命令的查看目录清单的工具，同时增加了颜色、图标等新功能，更加赏心悦目。<br>2. 配置文件见 README"
+    ],
+    [
+        "https://github.com/aleksey-hoffman/sigma-file-manager",
+        "一款先进的文件管理器。这是一款免费的文件管理器，由开源社区维护。支持智能搜索、自定义主页、文件共享、文件下载、智能拖放、文件保护等功能，适用于 Windows 和 Linux。"
+    ],
+    [
+        "https://github.com/felixse/FluentTerminal",
+        "炫酷的 Windows 终端软件。基于 UWP 的 Windows 终端应用，拥有强大的自定义主题模块，能够轻松定制出风格各异的主题。提供了中文选项，支持多窗口、SSH 和搜索等功能。"
+    ],
+    [
+        "https://github.com/gerardog/gsudo",
+        "适用于 Windows 的 sudo 命令行工具。它是 Windows 上的 sudo，允许用户以最高权限运行命令，拥有与 Unix/Linux sudo 类似的使用体验，支持 CMD、PowerShell、git-bash 等。"
+    ],
+    [
+        "https://github.com/Slackadays/Clipboard",
+        "小巧便捷的命令行剪贴板。一款用 C++ 编写的剪贴板工具，可以在终端的任何地方复制、剪切和粘贴东西，使用起来就像 GUI 一样方便，相见恨晚的命令行工具，适用于 Windows、Linux 和 macOS 操作系统。"
+    ],
+    [
+        "https://github.com/usememos/memos",
+        "一款清爽的轻量级备忘录中心。这是一个采用 React+Tailwind+TypeScript+Go 开发的备忘录中心，相当于极简的微博。支持私有/公开备忘录、标签、互动式日历等功能，以及 Docker 部署。"
+    ],
+    [
+        "https://github.com/gildas-lormeau/SingleFile",
+        "用于网页存档的浏览器扩展。可实现一键下载网页，能够将网页上的文字、图片等内容，完整地整合到单个 HTML 文件里，支持 Chrome、Firefox、Safari、Microsoft Edge 等主流浏览器。"
+    ],
+    [
+        "https://github.com/Ashinch/ReadYou",
+        "一款 Material 风格的 Android RSS 阅读器。界面简洁清爽的 RSS 阅读器，支持订阅 RSS 链接、更新通知、沉浸式阅读等功能"
+    ],
+    [
+        "https://github.com/srsudar/eg",
+        "常用的 Linux 命令示例查询工具。它提供了 Linux 命令的常见用法，不仅使用方便而且示例简洁实用。但貌似只有英文版本。"
+    ],
+    [
+        "https://github.com/thomasahle/sunfish",
+        "100 多行代码的 Python 国际象棋引擎。一个仅用 Python 标准库和 131 行代码实现的命令行国际象棋游戏。它注释丰富结构清晰，核心代码由国际象棋逻辑、策略搜索和用户界面三个部分组成。"
+    ],
+    [
+        "https://github.com/o2sh/onefetch",
+        "查看 Git 仓库信息的命令行工具。一款由 Rust 编写的命令行查看 Git 信息的工具，它可以直接在终端中展示本地 Git 仓库的详细信息，比如开源协议、提交次数、代码统计等信息。"
+    ],
+    [
+        "https://github.com/sumatrapdfreader/sumatrapdf",
+        "免费小巧的开源 PDF 阅读器。这是一款体积小、占用内存少、启动速度快的 Windows PDF 阅读工具，拥有日常所需的所有功能和简约大方的界面，这一切不多不少刚刚好。"
+    ],
+    [
+        "https://github.com/Code52/carnac",
+        "用于展示键盘按键操作的工具。这是一款能够在桌面实时显示键盘操作记录的工具，多用于演示应用、录制教程等场景，适用于 Windows 7 及以上的操作系统。"
+    ],
+    [
+        "https://github.com/leiurayer/downkyi",
+        "一款多功能的 B 站视频下载工具。这是一款简单易用的哔哩哔哩视频下载工具，它拥有简洁的操作界面，使用起来十分方便。支持批量下载、音视频提取、去水印等功能。"
+    ],
+    [
+        "https://github.com/rougier/numpy-100",
+        "Numpy 的练习册。该项目包含了 100 个关于 Python 常用的数据处理库 Numpy 的练习和解决方案。"
+    ],
+    [
+        "https://github.com/extrawurst/gitui",
+        "带界面的 Git 命令行工具。该项目为 git 提供了终端界面，让用户可以更加顺畅地使用 git。交互式的操作提示，让你无需再记忆大量的 git 命令。"
+    ],
+    [
+        "https://github.com/microsoft/fluentui-emoji",
+        "一套可爱的 emoji 表情。该项目是微软开源的一套精致、可爱的 emoji 表情包。"
+    ],
+    [
+        "https://github.com/DevToys-app/DevToys",
+        "程序员的瑞士军刀。该项目打包了程序员日常开发会用到的小工具，比如时间戳转化、各种解码、输出美化、颜色选择器等，使用方便颜值高。"
+    ],
+    [
+        "https://github.com/Planshit/Tai",
+        "Windows 上统计软件使用时长的工具。该项目会根据软件获得焦点和失去焦点的时间差，来计算软件的真实使用时长，而不是简单地统计软件存活时间。"
+    ],
+    [
+        "https://github.com/lovefc/china_school_badge",
+        "全国高校校徽字体图标库。该项目包含国内 200 多所高校校徽制作的字体图标。"
+    ],
+    [
+        "https://github.com/JanDeDobbeleer/oh-my-posh",
+        "适用于多种 shell 的终端提示个性化工具。该项目内置多款主题开箱即用，支持 Windows、Linux、macOS 三个系统上的 PowerShell、Bash、Zsh 等多种 shell，自动补全你输入的每个命令。"
+    ],
+    [
+        "https://github.com/jeecgboot/JimuReport",
+        "一款在线制作报表的工具。该项目可通过在线拖拽制作报表，支持报表设计、图形报表、大屏展示等功能。"
+    ],
+    [
+        "https://github.com/shuzijun/leetcode-editor",
+        "刷 LeetCode 的 IDE 插件。让你可以在 IDE 里刷 LeetCode 算法题的插件，支持 IntelliJ IDEA、PyCharm、GoLand 在内的 Jetbrains 全家桶。"
+    ],
+    [
+        "https://github.com/faressoft/terminalizer",
+        "强大的终端录制工具。该项目可以轻松记录下你在命令行的操作，并将录制好的内容输出成 gif 图像或直接分享到网上。"
+    ],
+    [
+        "https://github.com/bottlesdevs/Bottles",
+        "一款可轻松实现 Linux 上运行 Windows 软件的工具。该项目提供了清爽易用的 GUI 界面，用户就算不懂任何编程技巧，也可以轻而易举地在 Linux 系统上，运行 Windows 的游戏和软件。"
+    ],
+    [
+        "https://github.com/vastsa/FileCodeBox",
+        "一款匿名口令分享文本和文件的服务。该项目是基于 FastAPI+SQLite3 开发的文件分享服务，支持分享文件、口令提取文件等功能，无需注册即可完成文件提取。"
+    ],
+    [
+        "https://github.com/spacedriveapp/spacedrive",
+        "一款 Rust 写的跨平台文件管理工具。它基于用 Rust 编写的虚拟分布式文件系统(VDFS)，可以将 macOS、Windows、Linux、iOS、Android 等不同操作系统的设备连接到一起，统一管理所有的文件。该项目还处于开发阶段，客户端需要自行编译。"
+    ],
+    [
+        "https://github.com/mumuy/relationship",
+        "中国亲戚关系计算器。该项目实现了中国亲戚关系及称呼之间的换算，可以将中国复杂的亲戚关系及称呼通过计算器的方式简单的运算出来。"
+    ],
+    [
+        "https://github.com/cockpit-project/cockpit",
+        "基于 Web 的服务器图形界面。这是一款开源的服务器管理工具，让你可以通过 Web 界面轻松管理 Linux 服务器，支持配置防火墙、Web 终端、容器管理、查看系统日志等功能。"
+    ],
+    [
+        "https://github.com/topjohnwu/Magisk",
+        "俗称面具。Android 获取 Root 权限的工具。它可以快速、无痛地获得 Android 的超级用户权限，支持 Android 5.0 以上的设备。"
+    ],
+    [
+        "https://github.com/osquery/osquery",
+        "像数据库一样查询设备的工具。它将操作系统抽象成一个数据库，让用户可以通过 SQL 查询操作系统的运行情况，比如运行中的进程、网络连接、文件和用户。攻击者一般会在运行恶意程序后删掉程序，通过 osquery 可以轻松找到没有源文件的进程。"
+    ],
+    [
+        "https://github.com/kkuchta/css-only-chat",
+        "仅用 CSS 实现网络聊天。前端不用 JavaScript 只用 CSS 实现网络聊天的功能，秘诀是伪选择器加载的背景图像和永远加载的索引页。"
+    ],
+    [
+        "https://github.com/google/cadvisor",
+        "一款由 Google 开源的容器监控工具。它可以实时统计容器运行时占用的资源，包括 CPU 利用率、内存使用量、网络传输等信息。提供了 Web 可视化页面，能方便用户分析和监控容器运行状态，支持包括 Docker 在内的几乎所有类型的容器。"
+    ],
+    [
+        "https://github.com/jenkinsci/jenkins",
+        "1. Jenkins：一款由 Java 编写的开源持续集成工具。做为开源 CI/CD 软件的王者，它专注于自动化你的开发工作流程，具有安装简单、友好的操作页面、易于扩展、分布式的特点，常用来优化项目开发流程或自动化各种任务。<br>2. 程序首页：https://www.jenkins.io/"
+    ],
+    [
+        "https://github.com/648540858/wvp-GB28181-pro",
+        "1. 开箱即用的网络视频平台。基于 GB28181 标准实现的网络视频平台，能够接入摄像机、平台、NVR 等设备、支持视频预览、云台控制、录像查询和回放、无人观看自动断流等功能。<br>2. 文档指南：https://doc.wvp-pro.cn/#/"
+    ],
+    [
+        "https://github.com/leon-kfd/Dashboard",
+        "一款完全自定义配置的浏览器起始页。基于 Vite+Vue3+TypeScript 构建的浏览器起始页，预设了多款简洁清爽的主题开箱即用，能够随心所欲地添加组件，编辑模式下可拖拽组件更改大小和位置，支持浏览器插件和网页两种使用方式。"
+    ],
+    [
+        "https://github.com/slidevjs/slidev",
+        "专为程序员打造的演示文稿工具。该项目是基于 Web 的幻灯片制作和演示工具，让用户可以使用 纯文本+Markdown 语法制作幻灯片，支持导出为 PDF 或 PNG 格式的文件，或以单页面展示幻灯片。对于大多数不擅长做 PPT 的程序员，基于提供的现成主题也可以制作出看起来不错的演示文稿。"
+    ],
+    [
+        "https://github.com/YOURLS/YOURLS",
+        "完全免费的短网址服务。采用 PHP 编写的短网址服务，它完全开源可自行搭建服务，支持数据统计、地理位置、可视化等功能。"
+    ],
+    [
+        "https://github.com/kovidgoyal/calibre",
+        "一款功能强大的电子书管理工具。它是集下载、格式转化、制作、管理于一体的电子书工具，比如可以将 txt 文本，转化成包含作者信息和书籍封面的 mobi 文件，制作完成后还可以直接发送到 Kindle 设备上。"
+    ],
+    [
+        "https://github.com/xfangfang/Macast",
+        "一款轻巧的投屏接收器。该项目可以让电脑接收来自手机的视频、图片和音乐投屏，支持手机上的主流视频和音乐软件，以及其它符合 DLNA 协议的软件。无打扰地运行在状态栏和菜单栏，适用于 Windows、macOS、Linux 操作系统。"
+    ],
+    [
+        "https://github.com/Wilfred/difftastic",
+        "命令行文件对比工具。一种可根据文件的语法，进行结构化比较的工具，支持 30 多种编程语言。其实有 vimdiff 就够啦。"
+    ],
+    [
+        "https://github.com/GyulyVGC/sniffnet",
+        "可轻松监控网络流量的工具。这是一个简单、可靠、炫酷的网络监控应用，可以让你一目了然地了解设备的网络流量。"
+    ],
+    [
+        "https://github.com/coteditor/CotEditor",
+        "一款适用于 macOS 的轻量级纯文本编辑器。它免费、整洁、启动速度快，拥有看起来十分舒服的界面。"
+    ],
+    [
+        "https://github.com/ripienaar/free-for-dev",
+        "1. 专为程序员准备的免费服务清单。<br>2. 其实是一个汇聚、收集网络上免费服务的聚合网站：https://free-for.dev/#/"
+    ],
+    [
+        "https://github.com/phyver/GameShell",
+        "玩游戏学习 Shell。这是一款帮助入门 shell 命令的文字游戏。"
+    ],
+    [
+        "https://github.com/robertdavidgraham/masscan",
+        "超快的 IP 端口扫描工具。异步的 TCP 端口扫描器，特点就是快。最快能在 5 分钟内扫描完整个互联网，但要小心别把本机打挂了。"
+    ],
+    [
+        "https://github.com/1Remote/1Remote",
+        "爽快利落的 Windows 平台远程桌面管理软件。该项目致力于提供优秀的远程桌面管理体验，通过启动器可以快速地连接到远程服务器，目前已支持 RDP、SSH、SFTP、FTP 等多种远程连接方式。"
+    ],
+    [
+        "https://github.com/studyzy/imewlconverter",
+        "一款开源免费的输入法词库转换程序。输入法会根据用户的输入和选词频率，形成一套符合用户输入习惯的词库，但这个词库无法直接转换到其它输入法，如果你换了输入法就需要重新习惯、养成新的词库。该项目支持 20 多种输入法的用户词库相互导入、导出以及合并词库，能够将你的输入习惯带到全新的输入法。"
+    ],
+    [
+        "https://github.com/jellyfin/jellyfin",
+        "优秀的本地媒体库管理工具。这是一个完全免费、支持中文、安装简单、跨平台、功能强大的媒体库管理系统。它能把原本躺在文件夹里的视频文件，变成包含封面、描述、评分、演员表等信息的“影碟”，让视频整整齐齐、赏心悦目，还支持视频续播、订阅更新、多端可看，让你可以远离广告优雅地追剧。"
+    ],
+    [
+        "https://github.com/dail8859/NotepadNext",
+        "Notepad++ 的替代品。采用 C++ 重写的跨平台文本编辑器，拥有和 Notepad++ 相似的界面和功能。"
+    ],
+    [
+        "https://github.com/go-rod/rod",
+        "Go 语言的网页自动化和爬虫库。该项目是 Go 语言封装的 DevTools 协议库，实现用 Go 语言操作浏览器，自动化之前需要手动完成的操作，比如：爬取客户端渲染的页面、端到端测试、自动填写表单、模拟点击等操作。项目包含丰富的示例代码，改改就能上手使用。"
+    ],
+    [
+        "https://github.com/aquasecurity/trivy",
+        "一款全面的容器安全扫描工具。目前最流行的开源容器镜像漏洞扫描工具，拥有速度快、精准度高、依赖检测、机密检查、对 CI 友好等特点。它不仅安装简单而且容易上手，仅需一条命令，即可发现镜像存在的安全漏洞。"
+    ],
+    [
+        "https://github.com/lilongweidev/GoodWeather",
+        "从零开发 Android 天气 APP。该项目介绍了如何开发一款支持天气预报、城市搜索、空气质量、自动更新等功能的 Android 应用，内含源码和配套讲解博文。"
+    ],
+    [
+        "https://github.com/didi/LogicFlow",
+        "滴滴开源的流程图编辑框架。该项目提供了一系列流程图交互和编辑的功能，支持实现脑图、ER 图、UML、工作流等各种场景。"
+    ],
+    [
+        "https://github.com/minbrowser/min",
+        "一款最小化的浏览器。它是仅包含搜索、书签、密码管理、广告屏蔽器等最基础功能的极简浏览器，适用于 Windows、Linux、macOS 操作系统。"
+    ],
+    [
+        "https://github.com/pipipi-pikachu/PPTist",
+        "1. 在线编辑和演示 PPT 的应用。该项目采用 Vue3+TypeScript 构建，还原了大部分 Office PowerPoint 常用功能，支持在线编辑、演示和导出 PPT 文件。<br>2. PPT在线制作演示：https://pipipi-pikachu.github.io/PPTist/  ⭐"
+    ],
+    [
+        "https://github.com/iSoron/uhabits",
+        "一款帮助建立和维持好习惯的应用。该软件完全免费、支持中文、无广告和内购，在 Google 应用商店上有 500 万的下载量。首先用户需要在 APP 上新建一个习惯，可以设置频率、量化任务、提醒时间等，每当完成一次习惯就在应用上做一个标记，后面会有详细的图表展示习惯养成情况。"
+    ],
+    [
+        "https://github.com/google/latexify_py",
+        "用于生成 LaTeX 数学公式的 Python 库。LaTeX 是一种基于 ΤΕΧ 的排版系统，对于展示复杂的数学公式表现极为出色。该项目可以用 Python 函数，轻松生成复杂的 LaTeX 数学公式描述。"
+    ],
+    [
+        "https://github.com/joschuck/matrix-webcam",
+        "在“矩阵”中进行视频会议。可以让你在视频会议时，实现类似《黑客帝国》数字雨的效果，支持 Teams/Zoom/Skype 视频软件，适用于 Windows、macOS、Linux 操作系统。"
+    ],
+    [
+        "https://github.com/ArtifexSoftware/pdf2docx",
+        "1. 可将 PDF 转换成 docx 文件的 Python 库。该项目通过 PyMuPDF 库提取 PDF 文件中的数据，然后采用 python-docx 库解析内容的布局、段落、图片、表格等，最后自动生成 docx 文件。<br>2. 直接安装也可以使用：pip install pdf2docx"
+    ],
+    [
+        "https://github.com/hiroi-sora/Umi-OCR",
+        "基于 PaddleOCR 的 OCR 图片转文字识别软件。完全免费、可离线使用的开源软件，支持截屏识别文字、批量导入图片、横/竖排文字，还可以自动忽略水印区域，适用于 Win10 操作系统。  ⭐"
+    ],
+    [
+        "https://github.com/github-linguist/linguist",
+        "GitHub 官方开源的识别项目编程语言的库。该项目是 GitHub.com 网站上，用于检测开源项目编程语言占比的库。"
+    ],
+    [
+        "https://github.com/atuinsh/atuin",
+        "神奇的 shell 历史记录工具。该项目通过 SQLite 数据库存储 shell 历史，能够显示更多的 shell 历史、命令运行时间、执行时间等信息，还支持选择、过滤、统计、同步/备份等操作。"
+    ],
+    [
+        "https://github.com/microsoft/Codex-CLI",
+        "让终端理解自然语言命令的工具。该项目使用 GPT-3 Codex 可将自然语言命令，转换为 PowerShell、Zsh 和 Bash 中的命令，比如输入 what‘s my IP？就能得到本机 IP。"
+    ],
+    [
+        "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
+        "一款显示电脑 CPU、主板等信息的免费工具。能够显示设备的 CPU、主板、内存、显卡、操作系统等信息，支持 GUI 和命令行两种启动方式，适用于 Linux 和 FreeBSD 操作系统。"
+    ],
+    [
+        "https://github.com/kohler/gifsicle",
+        "压缩和编辑 GIF 图片的工具。它是一款体积小、功能强大的 GIF 图片处理工具，不仅可以压缩 GIF 图片，还支持合并多个 GIF、导出所有帧、查看图片信息、减少帧数、设置循环次数、延迟、编辑某一帧等功能。"
+    ],
+    [
+        "https://github.com/TheJoeFin/Text-Grab",
+        "一个轻量级的 Windows OCR 工具。它基于 Windows 10 系统自带的 OCR API 实现，可以将看到的所有文字转化成文本，而且启动速度快、无需常驻后台、可离线使用。"
+    ],
+    [
+        "https://github.com/wader/fq",
+        "一条命令查看二进制文件。用于查看和处理二进制文件的命令行工具，安装简单使用方便，支持 mp4、flac、mp3、jpeg 等多种格式的文件。"
+    ],
+    [
+        "https://github.com/moonD4rk/HackBrowserData",
+        "一款浏览器数据导出工具。能够导出本地浏览器的密码、历史记录、Cookie、书签、下载记录、localStorage 等数据的命令行工具，支持多平台下的多种主流浏览器。"
+    ],
+    [
+        "https://github.com/NationalSecurityAgency/ghidra",
+        "一款免费开源的软件逆向分析工具。该项目由美国国安局开源，可用于分析编译后的代码。"
+    ],
+    [
+        "https://github.com/AykutSarac/jsoncrack.com",
+        "优雅的 JSON 数据可视化工具。该项目不是简单的展示 JSON 数据，而是将其转化为类似脑图的形式，支持放大/缩小、展开/收缩、搜索节点、导出图片等操作，还可以快速部署成服务。"
+    ],
+    [
+        "https://github.com/Momo707577045/m3u8-downloader",
+        "m3u8 视频在线提取工具。m3u8 视频格式常用于直播服务，其原理是将完整的视频拆分成多个 .ts 视频碎片，其中 .m3u8 文件会详细记录每个视频片段的地址。视频播放时，会先读取 .m3u8 文件，再逐个下载播放 .ts 视频片段。该项目就是基于上述原理实现的 m3u8 视频提取工具，使用方便无需安装打开网页即可下载完整的视频。"
+    ],
+    [
+        "https://github.com/Piwigo/Piwigo",
+        "一款开源在线相册应用。采用 PHP+MySQL 开发的管理照片的 Web 项目，它功能强大安装简单，拥有丰富的主题和灵活的插件，可轻松完成个性化定制。支持 iOS 和 Android 客户端，让你可以随时随地上传、管理照片。"
+    ],
+    [
+        "https://github.com/xbmc/xbmc",
+        "强大自由的媒体中心软件。这是一个媒体播放器软件，但折腾一下就是家庭媒体娱乐中心。它不仅支持播放本地视频，还能够安装各种插件以及播放网络存储设备(NAS)、投屏、直播、电视、播客等源。能够运行在 Linux、macOS、Windows、Android、iOS 等设备，界面支持中文更多功能等待你的挖掘。"
+    ],
+    [
+        "https://github.com/IceWhaleTech/CasaOS",
+        "简单易用的家庭云系统。只需一键即可安装在 NAS、树莓派等各种家庭智能设备上，让你可以随时随地管理个人数据和设备。"
+    ],
+    [
+        "https://github.com/plantuml/plantuml",
+        "从文本描述生成 UML 图的工具。该项目可根据简单的文字描述画出 UML 图，支持顺序图、用例图、时序图等，除此之外还支持架构图、甘特图、思维导图、实体关系图等非 UML 图。支持在线、命令行、桌面应用等多种使用方式，可根据情况自行选择。"
+    ],
+    [
+        "https://github.com/koodo-reader/koodo-reader",
+        "先进的电子书阅读工具。该阅读器支持 EPUB、Kindle、PDF、漫画等多种常见文本格式，界面清爽功能丰富，拥有自定义字体、添加笔记、书签、划词翻译、导入图书、数据同步等功能。提供了 Windows、macOS 和 Linux 客户端，还支持网页版可在线使用。"
+    ],
+    [
+        "https://github.com/nocobase/nocobase",
+        "易扩展的无代码开发平台。这个项目可以让你不写代码，仅通过点击和拖拽，分分钟搭建出协作和内部管理系统。项目还处于早期开发阶段，请勿用于生产环境。"
+    ],
+    [
+        "https://github.com/Mereithhh/vanblog",
+        "实用的一站式个人博客系统。一款简洁优雅的博客系统，追求极致响应速度和博客体验。前后台均为响应式，支持 Docker 一键部署。前台为静态页面并支持增量渲染，按需构建更新页面。拒绝花里胡哨的功能，专注于个人博客场景。"
+    ],
+    [
+        "https://github.com/videojs/video.js",
+        "流行的 HTML5 视频播放器。一款开箱即用的 Web 视频播放器，它支持 HTML5 视频和流媒体格式，至今有超过 45 万个网站在使用它。"
+    ],
+    [
+        "https://github.com/kraanzu/dooit",
+        "1. 命令行待办事项工具。用 Python 写的交互式命令行 todo 工具，操作简单支持快捷键和鼠标，界面精致可自定义主题和图标。<br>2. 也可以直接安装：pip install dooit"
+    ],
+    [
+        "https://github.com/Couy69/vue-idle-game",
+        "1. 挂机放置类小游戏。用 Vue.js 写的在线 RPG 游戏，装备完全随机全靠刷，没有任务就是刷。<br>2. 已在在 TapTap 运营，叫轮回勇者传说。<br>2. 尝试链接：http://couy.xyz/"
+    ],
+    [
+        "https://github.com/MonitorControl/MonitorControl",
+        "控制 macOS 外接显示器的工具。一款 macOS 多显示器控制工具，有了它就能够在菜单栏或使用快捷键，轻松地控制外接显示器的音量、亮度、对比度。"
+    ],
+    [
+        "https://github.com/AllThingsSmitty/css-protips",
+        "CSS 专业技巧。一个帮你提升 CSS 技巧的收藏集。"
+    ],
+    [
+        "https://github.com/greycodee/wechat-backup",
+        "1. 本地备份微信聊天记录的工具。它能够将手机上的微信聊天记录，解密后保存在电脑上，支持查看、搜索、恢复微信聊天记录。<br>2. 手机需要 root，可以不要root权限，但折腾起来有点麻烦。<br>3. 微信手机、电脑自带的备份功能不香吗？"
+    ],
+    [
+        "https://github.com/wangeditor-team/wangEditor",
+        "一款开源的 Web 富文本编辑器。基于 slate.js 和 snabbdom.js 实现的富文本编辑器，支持 JS、Vue 和 React 框架。开箱即用仅需几行代码，就能实现一个功能齐全的富文本编辑器。"
+    ],
+    [
+        "https://github.com/fontforge/fontforge",
+        "免费开源的字体编辑器。适用于 Windows、macOS、Linux 的编辑字体桌面工具，支持创建和编辑多种格式的字体，可用来构建自己的字体。"
+    ],
+    [
+        "https://github.com/navidrome/navidrome",
+        "Go 写的开源音乐服务器。该项目可以用来搭建自己的音乐网站，功能丰富支持中文界面、专辑封面、多用户、各种音频格式、播放列表等功能，而且硬件要求低即使是在树莓派上也能流畅地运行。"
+    ],
+    [
+        "https://github.com/pppscn/SmsForwarder",
+        "Android 上的消息转发应用。可以监控 Android 手机上的短信、来电和应用通知，并根据配置好的规则自动转发给其它手机，以及包括钉钉、飞书、企业微信在内的多种主流消息平台。"
+    ],
+    [
+        "https://github.com/luolongfei/freenom",
+        "免费域名自动续期工具。因为顶级免费域名供应商 Freenom，提供的免费域名需要每年续期，该项目可以自动完成域名续期，让你轻松拥有免费的顶级域名。"
+    ],
+    [
+        "https://github.com/easychen/checkchan-dist",
+        "网页内容监控工具。能监测网页内容变化，并发送异动通知，可用来跟踪网站内容、追番剧和小说。"
+    ],
+    [
+        "https://github.com/metakirby5/codi.vim",
+        "显示每一行代码结果的 Vim 插件。在 Vim 编辑器里交互式展示，输入的每一行代码的运行结果，支持如 Python、Ruby、PHP、JavaScript 等多种编程语言。"
+    ],
+    [
+        "https://github.com/ventoy/Ventoy",
+        "一个制作可启动 U 盘的开源工具。。重装系统时不用再格式化 U 盘，该项目支持直接将系统镜像拷贝进 U 盘就能启动，无需其它操作。"
+    ],
+    [
+        "https://github.com/kingToolbox/WindTerm",
+        "1. 一款专业的跨平台（Linux、Macos、Windows系统） SSH/Sftp/Shell/Telnet/Serial 终端。<br>2. 非常牛逼，可以打开自带的多种终端，例如git、cmd、power shell等。<br>3. 也可以使用 SSH 等连接远程服务器使用，功能非常不错。"
+    ],
+    [
+        "https://github.com/wmjordan/PDFPatcher",
+        "开源PDF工具箱，包括编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等"
+    ],
+    [
+        "https://github.com/hzeller/timg",
+        "命令行显示图片、播放视频"
+    ],
+    [
+        "https://github.com/xxxserxxx/gotop",
+        "用 Go 写的系统监控命令行工具。重点是带实时折线图，看起来比较炫酷。GitHub仓库release发布页面提供各种安装包"
+    ],
+    [
+        "https://github.com/KurtBestor/Hitomi-Downloader",
+        "下载管理器，支持几乎所有平台图片、视频下载"
+    ],
+    [
+        "https://github.com/Metroxe/one-html-page-challenge",
+        "单个 HTML 页面的挑战。该项目汇集了满足仅有一个 HTML 文件、小于 1MB、不可接入 API、不能引用库条件下实现的创意网页。"
+    ],
+    [
+        "https://github.com/ShareX/ShareX",
+        "免费的 Windows 截屏录制工具。功能强大支持全屏截图、滚动截图、检测窗口截图、GIF 录制等，截图后还支持在图片上增加文字、水印、特效、马赛克等，最后可直接上传图床得到链接，丝滑地完成整个截图流程"
+    ],
+    [
+        "https://github.com/M2Team/NanaZip",
+        "基于 7-Zip 的开源压缩工具。包含多种压缩算法和美观的 Win11 风格 UI，同时适配 Win11 右键菜单操作"
+    ],
+    [
+        "https://github.com/uncle-novel/uncle-novel",
+        "一款电脑端小说阅读软件。该软件不仅支持本地导入小说，自动解析生成目录方便阅读。还支持全网搜索和下载小说、在线收听有声小说、自动更新章节等功能"
+    ],
+    [
+        "https://github.com/mozillazg/python-pinyin",
+        "汉语转拼音的 Python 库"
+    ],
+    [
+        "https://github.com/nilaoda/BBDown",
+        "命令行哔哩哔哩视频下载工具"
+    ],
+    [
+        "https://github.com/files-community/Files",
+        "一个全新的文件管理器。采用 Fluent Design 和 Windows 平台最新的 API 实现，简约但不简单"
+    ],
+    [
+        "https://github.com/jgraph/drawio",
+        "一款简洁强大的绘图工具。免费开源可以自行部署也可以在线使用，功能上直追 Microsoft Visio。支持流程图、序列图、网络拓扑图、甘特图、思维导图、模型图等，还能导出多种格式类型比如 png、svg、PDF、HTML 和 VSDX 格式（Microsoft Visio 图形格式）"
+    ],
+    [
+        "https://github.com/sickcodes/Docker-OSX",
+        "用 Docker 跑 macOS 操作系统的项目。仅需 2 条命令分分钟让你起来一个 macOS 操作系统"
+    ],
+    [
+        "https://github.com/xaboy/form-create",
+        "强大的低代码动态表单组件，通过JSON数据驱动表单渲染，适配移动端，支持可视化设计。提高开发者对表单的开发效率。目前在政务系统、OA系统、ERP系统、电商系统、流程管理等系统中已稳定应用。"
+    ],
+    [
+        "https://github.com/fastapi/fastapi",
+        "搭建 API 的 Python 模块"
+    ],
+    [
+        "https://github.com/aliyun/aliyun-oss-python-sdk",
+        "阿里云 OSS Python SDK 源码"
+    ],
+    [
+        "https://github.com/521xueweihan/HelloGitHub",
+        "下次应该是 第41期（从后往前）啊"
+    ],
+    [
+        "https://github.com/Molunerfinn/PicGo",
+        "基于 electron-vue 实现的桌面图床工具。该工具可以帮助你高效、非常方便地上传图片到网络图床，包括了微博图床、七牛图床、腾讯云 COS、又拍云、GitHub、SM.MS、阿里云OSS、Imgur 等。只要使用快捷键或拖动就可以上传，而且上传成功的图片链接会自动复制到你的剪贴板里，支持 macOS、Windows、Linux 三大系统"
+    ],
+    [
+        "https://github.com/webtorrent/webtorrent",
+        "基于 JS 的流媒体种子客户端。不需要等待种子中的内容下载完毕，就可以马上播放种子中的内容，且有 Windows、Mac 和 Linux 操作系统的桌面版客户端。"
+    ],
+    [
+        "https://github.com/bchao1/bullet",
+        "一个支持终端输入和菜单选择的 Python 库。可以让使用者在终端上用方向键移动、单选、复选、密码输入等，而且支持定制化格式和颜色。"
+    ],
+    [
+        "https://github.com/jesseduffield/lazydocker",
+        "带命令行 UI 的 docker 管理工具。可以通过点点点来管理 docker"
+    ],
+    [
+        "https://github.com/ehang-io/nps",
+        "一款开源免费的轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。"
+    ],
+    [
+        "https://github.com/macrozheng/mall",
+        "功能强大，mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。"
+    ],
+    [
+        "https://github.com/Remix-Design/RemixIcon",
+        "一套免费、可商用、设计精美、细致的图标库。"
+    ],
+    [
+        "https://github.com/LucienShui/PasteMe",
+        "快速分享文本、代码的网站项目。支持加密、一键复制、永久保存、阅后即焚等功能"
+    ],
+    [
+        "https://github.com/plibither8/2048.cpp",
+        "C++ 写的终端 2048 游戏"
+    ],
+    [
+        "https://github.com/primer/octicons",
+        "GitHub 官方开源的 GitHub 网站上用的图标库"
+    ],
+    [
+        "https://github.com/simple-icons/simple-icons",
+        "1000+ 个流行品牌的免费 SVG 图标库"
+    ],
+    [
+        "https://github.com/ytdl-org/youtube-dl",
+        "强大的视频下载工具，支持几百个国内外主流视频网站。正如名字一样，最初是为了下载 youtube 上的视频而开发的。如果有国外服务器的朋友，可以充分利用这个工具，下载 youtube 上的视频，速度不要太爽。"
+    ],
+    [
+        "https://github.com/houtianze/bypy",
+        "百度云/百度网盘Python客户端"
+    ],
+    [
+        "https://github.com/fxsjy/jieba",
+        "强大的 Python 分词库，拿来直接用就好。示例代码如下"
+    ],
+    [
+        "https://github.com/tldr-pages/tldr",
+        "tldr 各种程序/命令的使用示例数据源"
+    ],
+    [
+        "https://github.com/tldr-pages/tldr-python-client",
+        "和 tldr 数据源交互的 Python 客户端"
+    ],
+    [
+        "https://github.com/tldr-pages/tldr-node-client",
+        "和 tldr 数据源交互的 Node 客户端"
+    ],
+    [
+        "https://github.com/darknessomi/musicbox",
+        "基于 Python 编写的网易云音乐命令行版本，使用起来简单优雅，能够快速安装及使用"
+    ],
+    [
+        "https://github.com/chuyangliu/snake",
+        "贪吃蛇游戏 AI 版，通过算法实现让小蛇通过吃豆，最后蛇的身体填满整个地图算结束。该项目详细描述实现思想以及相关算法的讨论"
+    ],
+    [
+        "https://github.com/idank/explainshell",
+        "一个可以解析 Linux 命令的网站，它可以给出命令的解释和其参数的解释"
+    ],
+    [
+        "https://github.com/SubtitleEdit/subtitleedit",
+        "开源的视频字幕编辑工具。这是一款适用于 Windows 的免费视频字幕编辑器。它开箱即用且功能强大，支持创建、调整、同步和翻录字幕，还提供了自动翻译、字幕格式转换和语音识别等功能。"
+    ],
+    [
+        "https://github.com/vslavik/diff-pdf",
+        "直观比较两个 PDF 文件的工具。这是一款用 C++ 编写的 PDF 文件比较工具。它支持两种查看方式，将文件内容的差异输出到一个新的 PDF 文件，或直接在 GUI 中查看。"
+    ],
+    [
+        "https://github.com/quackduck/devzat",
+        "程序员专属的 SSH 聊天室。这是一个通过 SSH 连接的聊天室，用户无需安装客户端，仅需一条 SSH 命令即可登录。它支持私人消息、多聊天室、图片和代码高亮等功能，还可以集成第三方服务、自托管 SSH 聊天室。"
+    ],
+    [
+        "https://github.com/dundee/gdu",
+        "快速查看磁盘使用情况的命令行工具。这是一个用 Go 语言编写的磁盘使用分析器，它能够快速扫描并展示文件和目录所占用的磁盘空间，支持 TUI（默认）、非交互和导出三种使用方式。"
+    ],
+    [
+        "https://github.com/cryptomator/cryptomator",
+        "为你的云端文件“上锁”的工具。这是一款开源的云存储文件加密工具，支持 Dropbox、OneDrive 等主流云存储服务。它简单易用、跨平台、无需注册，采用 AES-256 加密上传至云存储的文件和目录，适用于需要备份数据至云端，又担心数据泄漏的场景。"
+    ],
+    [
+        "https://github.com/GrapesJS/grapesjs",
+        "免费的可视化 Web 页面构建平台。该项目通过直观的可视化界面，让用户能够通过拖拽的方式，快速设计和构建网站的 HTML 模板。它所见即所得、移动端适配，适用于官网、新闻和 CMS 等类型的网站。"
+    ],
+    [
+        "https://github.com/ccbikai/Sink",
+        "基于 Cloudflare 带访问统计的短链平台。该项目是运行在 Cloudflare 上的短链接服务，支持网址缩短、访问分析和链接有效期等功能。"
+    ],
+    [
+        "https://github.com/baptisteArno/typebot.io",
+        "自托管的聊天机器人构建器。该项目通过可视化的拖拽界面，让用户能够轻松创建高级聊天机器人，并将其嵌入网站中。它提供了 30 多种聊天构建块，支持自托管、分析工具、自定义域名和品牌定制等功能，适用于在线客服和销售支持等场景。"
+    ],
+    [
+        "https://github.com/mattboldt/typed.js",
+        "极易上手的 JavaScript 打字动画库。该项目是专门用于创建打字动画效果的 JavaScript 库，它简单易用且 SEO 友好，支持删除效果、设置打字速度和循环次数等功能。"
+    ],
+    [
+        "https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer",
+        "用于分析 WiFi 信号的 Android 应用。该项目是用 Kotlin 写的 WiFi 分析工具，它提供了直观的图表展示 WiFi 网络情况，支持识别周围的 WiFi、测量信号强度和查看频道拥挤程度等功能。"
+    ],
+    [
+        "https://github.com/chidiwilliams/buzz",
+        "音频转录与翻译工具。该项目是基于 Whisper 的音频转录和翻译工具，它开箱即用且操作简单，支持语音转文字、音频翻译、多种语言和离线使用，适用于 macOS、Windows 和 Linux 平台。"
+    ],
+    [
+        "https://github.com/LGUG2Z/komorebi",
+        "Windows 的平铺窗口管理器。这是一款专为 Windows 设计的桌面窗口管理工具，支持自动平铺窗口、管理多个虚拟桌面和多显示器等功能，适用于 Windows 10 及更高版本。"
+    ],
+    [
+        "https://github.com/RubyMetric/chsrc",
+        "全平台通用的换源工具。该项目能够为常见的 Linux 发行版、编程语言和软件切换至国内镜像源，操作简单仅需一条命令。它采用 C 语言编写，具有高效和轻量级的特点，支持测速、多平台以及项目级换源等功能，适用于优化下载速度或解决源受限的场景。"
+    ],
+    [
+        "https://github.com/BartoszCichecki/LenovoLegionToolkit",
+        "轻量级的联想拯救者工具箱。该项目是专为联想拯救者系列笔记本设计的开源工具，它具有小巧轻便、占用内存少、不收集用户信息等优点，支持调节电源模式、显卡工作模式、风扇速度和键盘灯效等功能，提供了中文界面，可作为联想 Vantage 软件的开源替代品。"
+    ],
+    [
+        "https://github.com/tstack/lnav",
+        "强大的终端日志文件查看工具。这是一款用于查看和分析日志文件的轻量级工具。它无需配置、开箱即用，可自动识别日志格式并解压文件，支持同时处理多个文件和目录、实时更新、文本高亮、正则与 SQL 过滤日志等功能，特别适合在服务器和开发环境中使用。"
+    ],
+    [
+        "https://github.com/rememberber/MooTool",
+        "跨平台的开发者工具箱。这是一款用 Java 开发的开发者常用工具的桌面应用，支持 Windows、macOS 和 Linux 系统。它为开发者提供了多种实用工具，如文本转换、时间处理、JSON 格式化和正则匹配测试等。"
+    ],
+    [
+        "https://github.com/setube/vue-XiuXianGame",
+        "开源的文字修仙游戏。这是一个基于 Vue.js 开发的修仙模拟器，互动式的文字游戏，适合喜欢放置类和修仙题材游戏的玩家。"
+    ],
+    [
+        "https://github.com/markusfisch/BinaryEye",
+        "Android 的条形码扫描应用。这是一款简单易用、无广告的 Android 条形码和二维码扫描器，支持快速识别多种类型的条形码和二维码，并提供二维码/条形码生成功能。"
+    ],
+    [
+        "https://github.com/pereorga/minimalist-web-notepad",
+        "极简的在线记事本应用。该项目是采用 PHP 编写的 Web 记事本工具，核心功能仅通过一个文件实现。它提供了在线编辑、自动保存和分享笔记的功能，用户无需注册和登录即可使用，适合临时记录、快速保存和分享文字的场景。"
+    ],
+    [
+        "https://github.com/dandavison/delta",
+        "提升 Git 差异可读性的命令行工具。这是一个用 Rust 写的命令行工具，能够以更清晰、美观的方式展示 Git 的 diff、blame 和 grep 命令。它支持显示行号、语法高亮和更智能的行内差异显示等功能，可无缝集成到 Git 工作流中。"
+    ],
+    [
+        "https://github.com/bootandy/dust",
+        "快速显示硬盘使用情况的命令行工具。这是一个可视化磁盘使用情况的命令行工具，名字源自 du 和 Rust 编程语言组合。它体积小巧、运行速度快，能够以直观的方式展示磁盘空间概览。"
+    ],
+    [
+        "https://github.com/sabrogden/Ditto",
+        "Windows 的剪贴板历史管理工具。这是一款免费的 Windows 剪贴板增强工具。它能够将复制到剪贴板的内容存储到数据库中（SQLite），方便日后检索，支持设定保存日期、条目总数、合并粘贴、分组、快速搜索和热键粘贴等功能。"
+    ],
+    [
+        "https://github.com/0xJacky/nginx-ui",
+        "全新的 Nginx 在线管理平台。该项目是用 Go+Vue.js 构建的 Nginx 在线管理平台，它开箱即用、功能丰富，支持流量统计、在线查看 Nginx 日志、编辑 Nginx 配置文件、自动检查和重载配置文件等功能。"
+    ],
+    [
+        "https://github.com/robinmoisson/staticrypt",
+        "为静态网站提供密码保护功能。该项目无需服务器端支持，即可实现对 HTML 页面进行密码认证访问的功能。它使用 AES-256 加密算法和设定的密码，对需要保护的页面进行加密。生成的页面包含密码输入框，只有在输入正确的密码后，才会显示原始的 HTML 页面内容。"
+    ],
+    [
+        "https://github.com/Klocman/Bulk-Crap-Uninstaller",
+        "免费的 Windows 应用卸载神器。这是一个用 C# 开发的 Windows 软件卸载工具，能够快速删除大量不需要的应用程序。它完全免费、开箱即用，支持批量和强制卸载、清理残留文件、检测隐藏或受保护的已注册应用等功能。虽然面向 IT 专业人员设计，但其简单的默认设置，让任何人都能轻松上手。"
+    ],
+    [
+        "https://github.com/ZCShou/GoGoGo",
+        "开源的 Android 虚拟定位应用。该项目是一个基于 Android 调试 API 和百度地图实现的虚拟定位工具，无需 ROOT 权限即可修改地理位置。它支持位置搜索和手动输入坐标，并提供了一个可自由移动的摇杆来模拟位移。"
+    ],
+    [
+        "https://github.com/marktext/marktext",
+        "开源的 Markdown 编辑器，适用于 Linux、macOS 和 Windows。"
+    ],
+    [
+        "https://github.com/topabomb/marktext-specialedition",
+        "开源 Markdown 编辑器，使用 Marktext-0.17.1 分叉版本修改的中文特别版"
+    ],
+    [
+        "https://github.com/521xueweihan/HelloGitHub/blob/master/content/HelloGitHub103.md",
+        "从 103 期开始往后 -> "
+    ]
+]   

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>优秀Github项目</title>
+
+    <link rel="icon" type="image/x-icon" href="../imgs/icon/favicon.ico">
+    <style>
+        /* 设置表格整体样式 */
+        table {
+            width: 100%;
+            border-collapse: collapse; /* 合并边框 */
+        }
+
+        /* 设置表头行的背景颜色和文字颜色 */
+        th {
+            background-color: #7cb0a8;
+            color: #000000;
+            font-weight: bold; /* 字体加粗 */
+        }
+
+        /* 设置单元格边框和内边距 */
+        td, th {
+            border: 1px solid #6e6e6e; /* 边框为1像素实线灰色 */
+            padding: 8px; /* 内边距为8像素 */
+        }
+
+        /* 设置奇数行背景颜色*/
+        /*tr:nth-child(odd) {*/
+        /*    background-color: #b5dcdb;*/
+        /*}*/
+        /* 设置奇数行背景颜色*/
+        tr:nth-child(even) {
+            background-color: #dee1c6;
+        }
+
+        /* 鼠标悬停在行上时改变背景颜色*/
+        tr:hover {
+            background-color: #cbcbcb;
+        }
+    </style>
+</head>
+<body>
+
+<!-- 右边显示大 div， 其中根据分类，分成多个小的 div -->
+<div class="container-right">
+    <!-- 每个小的 div 中显示工具信息，水平流式布局 -->
+    <div class="search">
+        <label>
+            <input id="search-input" type="text" placeholder="请输入待检索关键字...">
+        </label>
+        <button id="search-button">检索</button>
+    </div>
+
+    <div class="search-result">
+        <!-- 使用js脚本动态创建并显示网址 -->
+    </div>
+
+    <div class="search-no-result">
+        <!-- 使用js脚本动态创建并显示网址 -->
+    </div>
+</div>
+
+<table id="dataTable">
+    <thead>
+    <tr>
+        <th>序号</th>
+        <th>项目地址</th>
+        <th>说明</th>
+    </tr>
+    </thead>
+
+    <!-- 这里用于放置表格内容 -->
+    <tbody id="dataBody"></tbody>
+</table>
+
+<script src="../js/github_stars.js"></script>
+
+</body>
+</html>

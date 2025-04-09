@@ -1,1 +1,51 @@
-Hello World
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <title>工具箱</title>
+
+    <!-- 导入外部 css 样式文件 -->
+    <link rel="stylesheet" href="css/styles.css">
+    <!-- 图标 logo -->
+    <link rel="icon" type="image/x-icon" href="./imgs/icon/favicon.ico">
+</head>
+<body>
+
+<!-- 总 div -->
+<div class="container">
+    <!-- 左边菜单栏 div -->
+    <div class="container-left">
+        <!-- 使用js脚本动态创建并显示网址 -->
+    </div>
+
+    <!-- 右边显示大 div， 其中根据分类，分成多个小的 div -->
+    <div class="container-right">
+        <!-- 每个小的 div 中显示工具信息，水平流式布局 -->
+        <div class="search">
+            <label>
+                <input id="search-input" type="text" placeholder="请输入待检索关键字...">
+            </label>
+            <button id="search-button">检索</button>
+        </div>
+
+        <div class="search-result">
+            <!-- 使用js脚本动态创建并显示网址 -->
+        </div>
+
+        <div class="search-no-result">
+            <!-- 使用js脚本动态创建并显示网址 -->
+        </div>
+
+        <div class="right-show">
+            <!-- 使用js脚本动态创建并显示网址 -->
+        </div>
+    </div>
+
+    <button id="scrollToTop">🔝</button>
+</div>
+
+<!-- 加载显示网址数据的js -->
+<script type="module" src="js/main.js"></script>
+
+</body>
+</html>

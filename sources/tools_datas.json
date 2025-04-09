@@ -1,0 +1,288 @@
+{
+    "dataTitle": [
+        "📗 编程学习",
+        "💻 开发工具",
+        "📄 文本工具",
+        "🖼️ 图片工具",
+        "🎥 视频工具",
+        "🧩 其它",
+        "💡 自定义"
+    ],
+    "classNames": [
+        "right-show-program-study",
+        "right-show-develop",
+        "right-show-text",
+        "right-show-images",
+        "right-show-videos",
+        "right-show-other",
+        "right-show-myself"
+    ],
+    "dataAllUrls": {
+        "dataProgramStudy": [
+            [
+                "https://www.v2ex.com/",
+                "https://www.jyshare.com/wp-content/uploads/2022/03/v2ex-logo.png",
+                "V2EX",
+                "一个汇聚各类奇妙好玩的话题..."
+            ],
+            [
+                "https://www.cnblogs.com/",
+                "https://www.jyshare.com/wp-content/uploads/2022/03/cnblogs-logo.png",
+                "博客园 ",
+                "开发者的网上家园"
+            ],
+            [
+                "https://www.openeuler.org/zh/",
+                "https://www.openeuler.org/favicon.ico",
+                "openEuler",
+                "openEuler 国产 Linux 操作系统"
+            ],
+            [
+                "https://fedoraproject.org/zh-Hans/",
+                "https://fedoraproject.org/favicon.ico",
+                "Fedora",
+                "Fedora 是Linux发行版操作系统，为用户首页"
+            ],
+            [
+                "https://www.linuxcool.com/",
+                "https://www.linuxcool.com/wp-content/uploads/2019/03/cropped-redhat-32x32.png",
+                "Linux 命令大全",
+                "Linux 命令大全（手册、非官方）"
+            ],
+            [
+                "https://www.openeuler.org/zh/meeting/",
+                "https://www.openeuler.org/favicon.ico",
+                "openEuler 社区会议",
+                "openEuler 社区线上会议日历，包含 TC 会议、周例会、月例会等"
+            ],
+            [
+                "https://www.explainshell.com/",
+                "",
+                "Linux 命令查询",
+                "输入Linux 命令，可查询和展示命令选项和作用"
+            ]
+        ],
+        "dataDevelopTools": [
+            [
+                "https://www.jyshare.com/compile/1/",
+                "https://www.jyshare.com/wp-content/uploads/2016/01/php.png",
+                "PHP 在线工具",
+                "在线编译、运行 PHP 代码"
+            ],
+            [
+                "https://www.jyshare.com/compile/9/",
+                "https://www.jyshare.com/wp-content/uploads/2016/01/python.png",
+                "Python3 在线工具",
+                "在线编译、运行 Python3 代码"
+            ],
+            [
+                "https://webvm.io/",
+                "https://www.jyshare.com/wp-content/uploads/2024/08/webvm-logo.png",
+                "WebVM",
+                "在浏览器中运行的 Linux 虚拟环境"
+            ],
+            [
+                "https://regexr.com/",
+                "https://www.jyshare.com/wp-content/uploads/2022/03/regexrcom-logo.png",
+                "RegExr",
+                "正则表达式在线测试工具"
+            ],
+            [
+                "https://www.jyshare.com/front-end/9424/",
+                "https://www.jyshare.com/wp-content/uploads/2024/09/uuid.png",
+                "UUID 生成器",
+                "在线生成32位大/小写的 UUID"
+            ],
+            [
+                "https://www.jyshare.com/front-end/846/",
+                "https://www.jyshare.com/wp-content/uploads/2016/11/1480248614_Html.png",
+                "HTML 转 JS",
+                "HTML 转 JavaScript 在线工具"
+            ],
+            [
+                "https://www.4qx.net/Extension_ChaXun.php",
+                "https://www.4qx.net/favicon.ico",
+                "文件后缀查询",
+                "通过输入文件后缀，查询相关后缀文件信息、详情"
+            ],
+            [
+                "https://ol.woobx.cn/tool/regex-hub",
+                "https://ol.woobx.cn/favicon.ico",
+                "正则表达式大全",
+                "常用的正则表达式"
+            ]
+        ],
+        "dataTextTools": [
+            [
+                "https://www.jyshare.com/front-end/686/",
+                "https://www.jyshare.com/wp-content/uploads/2016/09/key.png",
+                "随机密码生成器",
+                "随机密码生成器可以实现在线生成随机密码、随机数，通过设置小写字母(a..z)、大写字母(A..Z) 、数字(0..9)、特殊字符等来随机生成 6 到 30 位的密码。"
+            ],
+            [
+                "https://ol.woobx.cn/tool/url-shortener",
+                "https://ol.woobx.cn/favicon.ico",
+                "短网址生成",
+                "输入网址将其转为短网址"
+            ],
+            [
+                "https://www.jyshare.com/front-end/712/",
+                "https://www.jyshare.com/wp-content/uploads/2016/09/markdown-icon.png",
+                "Markdown 在线编辑器",
+                "Markdown 在线编辑器"
+            ],
+            [
+                "https://tool.lu/danmu/",
+                "https://tool.lu/favicon.ico",
+                "手持弹幕",
+                "在浏览器中显示的手持弹幕，可以浏览器旋转加手机横屏，实现水平方向的弹幕播放"
+            ],
+            [
+                "https://ol.woobx.cn/tool/morse-code",
+                "https://ol.woobx.cn/favicon.ico",
+                "摩斯电码",
+                "摩斯电码生成与解码"
+            ],
+            [
+                "https://www.deepl.com/zh/translator",
+                "https://toolb.cn/favicon/www.deepl.com",
+                "DeepL 在线翻译",
+                "强大的翻译工具，翻译的相对很准确，程序覆盖Windows、Linux、Macos、网页、插件、APK等，也支持多种语言。"
+            ]
+        ],
+        "dataImagesTools": [
+            [
+                "https://toolb.cn/favicon",
+                "https://toolb.cn/favicon/toolb.cn",
+                "网址图标Logo获取",
+                "可在线使用，也可以通过 API 调用，只需要网址域名即可获取"
+            ],
+            [
+                "https://ol.woobx.cn/tool/skewer-counter",
+                "https://ol.woobx.cn/favicon.ico",
+                "在线数签子",
+                "上传串串签子图片，自动识别签子数量（当前免费）"
+            ],
+            [
+                "https://tool.lu/favicon/",
+                "https://tool.lu/favicon.ico",
+                "favicon在线制作",
+                "favicon、logo、网站图标在线制作"
+            ],
+            [
+                "https://ol.woobx.cn/tool/gif-splitter",
+                "https://ol.woobx.cn/favicon.ico",
+                "GIF 分解",
+                "将GIF分解为每一帧的图片，可以查看或下载"
+            ],
+            [
+                "https://ol.woobx.cn/tool/image-compressor",
+                "https://ol.woobx.cn/favicon.ico",
+                "图片压缩",
+                "压缩图片，减少图片所占空间"
+            ],
+            [
+                "https://ol.woobx.cn/tool/text2image",
+                "https://ol.woobx.cn/favicon.ico",
+                "图片转文字",
+                "输入图片，返回其对应的图片格式"
+            ],
+            [
+                "https://ol.woobx.cn/tool/qrcode",
+                "https://ol.woobx.cn/favicon.ico",
+                "制作二维码",
+                "制作二维码"
+            ],
+            [
+                "https://ol.woobx.cn/tool/gif-encoder",
+                "https://ol.woobx.cn/favicon.ico",
+                "GIF 合成",
+                "制作、合成GIF"
+            ],
+            [
+                "https://www.jyshare.com/front-end/6210",
+                "https://www.jyshare.com/wp-content/uploads/2021/08/colorpicker11.png",
+                "取色器",
+                "在线取色器是一款非常简单实用对取色器工具，我们可以取色器中的某个区域即可进行取色。鼠标点击取色器即可在下方显示点击位置的颜色值（颜色值分为十六进制与 RBGA 两种方式显示）"
+            ],
+            [
+                "https://ol.woobx.cn/tool/bilibili-cover",
+                "https://ol.woobx.cn/favicon.ico",
+                "B站视频封面获取",
+                "输入B站视频链接，获取其封面图片"
+            ],
+            [
+                "https://css.gg/",
+                "",
+                "开源图标UI素材库",
+                "开源图标UI素材库"
+            ],
+            [
+                "https://www.flaticon.com/",
+                "",
+                "图标Logo素材",
+                "国外网站，收费限制多，但功能强大。包含大量SVG、PNG等格式图标素材，支持多种引用方式。"
+            ]
+        ],
+        "dataVideoTools": [
+            [
+                "https://tool.lu/subtitleconverter/",
+                "https://tool.lu/favicon.ico",
+                "字幕格式转换",
+                "视频字幕文件格式转换"
+            ],
+            [
+                "https://ol.woobx.cn/tool/video2gif",
+                "https://ol.woobx.cn/favicon.ico",
+                "视频转 GIF",
+                "通过上传视频制作、合成 GIF"
+            ],
+            [
+                "https://ol.woobx.cn/tool/audio-extractor",
+                "https://ol.woobx.cn/favicon.ico",
+                "音频提取器",
+                "上传视频提取视频中的音频"
+            ],
+            [
+                "https://ol.woobx.cn/tool/screen-recorder",
+                "https://ol.woobx.cn/favicon.ico",
+                "屏幕录制",
+                "仅支持桌面端浏览器录制屏幕"
+            ]
+        ],
+        "dataOthers": [
+            [
+                "https://wordshub.github.io/free-font/",
+                "https://www.jyshare.com/wp-content/uploads/2022/04/%E5%85%8D%E8%B4%B9%E5%95%86%E7%94%A8%E5%AD%97%E4%BD%93.jpg",
+                "免费商用字体",
+                "免费商用字体"
+            ],
+            [
+                "https://scholar.google.com/?hl=zh-CN",
+                "https://www.jyshare.com/wp-content/uploads/2022/05/gugexueshu.jpg",
+                "谷歌学术",
+                "Google 提供的免费搜索学术文章"
+            ],
+            [
+                "https://emoji6.com/",
+                "https://emoji6.com//favicon.png",
+                "emoji符号表情百宝箱",
+                "emoji表情工具箱，包含表情合成、表情猜成语、符号表情大全、小红书文案表情、表情翻译器等"
+            ]
+        ],
+        "dataMyself": [
+            [
+                "./pages/github_stars.html",
+                "https://toolb.cn/favicon/github.com",
+                "GitHub 优秀项目",
+                "GitHub 优秀仓库收藏，覆盖各种"
+            ],
+            [
+                "./pages/001-onlineclock.html",
+                "",
+                "在线时钟",
+                "在线时钟"
+            ]
+        ]
+    }
+}

@@ -1,0 +1,181 @@
+.container {
+    display: flex;
+    justify-content: space-between; /* 子标签均匀布局 */
+}
+
+.container-left {
+    position: fixed;  /* 固定左侧菜单栏，使其不会随着右侧滚动而滚动 */
+    width: 10%;
+    height: 100%;
+    background-color: #3f4144;
+    /* 流式垂直布局 */
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px; /* 内组件 上间距 */
+    /*padding-left: 20px;*/
+    color: #FFFFFF; /* 字体颜色 */
+}
+/* 左菜单栏每个 span 样式 */
+.container-left div {
+    width: 100%;
+}
+.container-left div a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-decoration: none; /* 去掉下划线 */
+    color: inherit; /* 继承父元素的文字颜色 */
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+.container-left div:hover {
+    background-color: #9099A3;
+}
+
+.container-right {
+    margin-left: 10%;  /* 左侧菜单栏被固定了，宽度占10%，因此设置右边div左侧外边距 10% */
+    background-color: #5f5f5f;
+}
+
+/* 网址展示区域，流式水平布局 */
+/*.right-show, .search-result {*/
+.right-show div, .search-result {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; /* 该div中的子div是流式水平布局，设置它一行满了后自动换行 */
+    width: 100%;
+}
+
+.right-show {
+    display: flex;
+    flex-direction: column;
+}
+
+/* 搜索框未找到数据时的显示样式 */
+.search-no-result {
+    display: flex;
+    /* 组件居中显示 */
+    justify-content: center;
+    align-items: center;
+}
+.right-show-no-search {
+    margin: 10px 0 10px 0;
+    width: 300px;
+    padding: 10px 0 10px 0;
+    border-radius: 20px;
+    background-color: #446e69;
+    text-align: center;
+}
+
+.right-show div div, .search-result div{
+    /* 每个网址框外间距 */
+    /*margin: 10px;*/
+    margin: 10px 2% 10px 2%;
+    background-color: #747681;
+    color: #78f3e9;
+    width: 15%;
+    padding: 5px 5px 5px 10px; /* 内边距: 上 右 下 左 */
+    overflow: hidden;  /* 网址描述禁止换行，配合父容器属性，超出宽度内容会隐藏，否则会显示到容器外面去 */
+    text-overflow: ellipsis; /* 显示省略号 */
+    border-radius: 5px;  /* 圆角处理 */
+}
+
+/* 网址中的图片样式 */
+.right-show img, .search-result img {
+    border-radius: 10px;  /* 圆角处理 */
+}
+
+/* 设置网址链接、span样式 */
+.right-show-url a {
+    color: #49c6ec; /* 链接文件默认颜色、点击前颜色 */
+    text-decoration: none; /* 去除下划线 */
+    /* 使链接所在的 div 块整个区域都可以点击，而不仅限于文字。必须使他充满整个父区域 */
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.right-show-url a:hover {
+    color: #49c6ec; /* 鼠标悬停链接时显示颜色 */
+}
+
+.right-show-url:hover {
+    background-color: #9099A3;  /* 鼠标悬停时整个网址 div 高亮 */
+    transition: background-color 0.5s ease; /* 设置背景颜色缓慢变化 */
+}
+
+.right-show-url a:active {
+    color: #49c6ec; /* 鼠标点击链接后显示颜色 */
+}
+
+.right-show-url span {
+    color: #3D4351;
+    font-size: 0.8em;  /* 字体权重，按单位1比例放大或缩小 */
+    white-space: nowrap; /* 禁止网址描述文本换行 */
+}
+
+/* 搜索框样式 */
+.search {
+    width: 100%;
+    text-align: center;  /* 组件居中 */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.search input {
+    border-radius: 20px;  /* 圆角 */
+    width: 400px;
+    height: 40px;
+    padding: 2px 5px 2px 5px;
+    border: none;  /* 无边框 */
+    background-color: #dddddd;  /* 输入框背景 */
+}
+.search input:focus {
+    outline: none;  /* 无外框 */
+    background-color: #FFFFFF;
+}
+
+/* 检索按钮样式 */
+#search-button {
+    margin-left: 30px;
+    width: 60px;
+    height: 36px;
+    border-radius: 10px;
+    background-color: #0077aa;
+    color: #FFFFFF;
+}
+#search-button:hover {
+    background-color: #49c6ec;
+}
+
+h3 {
+    color: #ec8e01;
+    margin-left: 10px;  /* 外左边距 */
+}
+
+body {
+    background-color: #333333;
+    margin: 0;  /* 让body内的组件间隔为0，防止上下左右有间隙 */
+}
+
+/* 页脚显示信息样式 */
+.footer {
+
+    color: darkcyan;
+    text-align: center;
+    margin: 30px 0 10px 0;
+}
+
+
+/* 页面右下角滚动到顶部按钮样式 */
+#scrollToTop {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #009587;
+    border-radius: 10px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    border: none;
+}
